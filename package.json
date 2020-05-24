@@ -1,0 +1,20 @@
+{
+  "name": "finewinegoodspiritssalesapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --config ./jest.config.json"
+  },
+  "author": "pghdeveloper <rmardayat@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
